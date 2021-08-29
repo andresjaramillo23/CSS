@@ -2,11 +2,21 @@ body {
 	margin: 0;
 }
 #sectionA {
+	margin: 0 auto;
 	background: blue;
+	width: 33%;
 }
 #sectionB {
+	margin: 0 auto;
 	background: red;
+	width: 33%;
 }
 #sectionC {
+	margin: 0 auto;
 	background: green;
+	width: 33%;
+}
+
+#lolo {
+	display: flex;
 }
