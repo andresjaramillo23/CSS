@@ -1,4 +1,16 @@
 /* your code here */
-.h2 {display:none;
+h2:first-child {
+	visibility: hidden;
+}
 
+h2:nth-child(2) {
+	display: none;
+}
+
+ul {
+	display: inline;
+}
+
+p * strong {
+	display: block;
 }
