@@ -1,0 +1,9 @@
+git remote remove origin
+
+git remote add origin https://URL.git
+
+git add .
+
+git commit -m "Type here your message"
+
+git push -u origin main(or master)
